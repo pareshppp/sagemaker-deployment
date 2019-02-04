@@ -107,6 +107,10 @@ ENV/
 Sentiment Analysis/aclImdb_v1.tar.gz
 Sentiment Analysis/aclImdb/
 
+# Tex Files
+*.tex
+Project/*.tex
+
 
 
 data/
